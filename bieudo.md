@@ -1,5 +1,5 @@
 ```mermaid
-   activityDiagram
+activityDiagram
     title Quy trình Khám chữa bệnh tại Phòng khám
     
     |Bệnh nhân|
@@ -57,4 +57,3 @@
         :Rời phòng khám;
         stop
 ```
-
